@@ -51,7 +51,7 @@ function getMood(percentage) {
 function showCategories() {
 
     let html = `
-        <h2>Choose a Category</h2>
+        <h2>Choose Your Excuse Category</h2>
         <div class="category-grid">
     `;
 
